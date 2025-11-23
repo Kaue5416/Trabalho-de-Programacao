@@ -1,0 +1,2 @@
+1;Admin;admin@admin.com;admin;ADMIN;
+2;kaue;alu@gmail.com;1234;CLIENTE;avenidamanoel
